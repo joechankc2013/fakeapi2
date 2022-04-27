@@ -1,34 +1,58 @@
 {
-    "help":[
-       {
-          "id":1,
-          "name":"Select",
-          "image":"ellipsis.circle",
-          "details":"Allow selecting multiple contact for creating email"
-       },
-       {
-          "id":2,
-          "name":"Sorting",
-          "image":"arrow.up.arrow.down.circle",
-          "details":"List the contacts in alphabetic order"
-       },
-       {
-          "id":3,
-          "name":"Filters",
-          "image":"line.3.horizontal.decrease.circle",
-          "details":"Filters fro division, section and/or team"
-       },
-       {
-          "id":4,
-          "name":"Configurations",
-          "image":"gear",
-          "details":"Customize configurations on toolbar, tab, displaying and searching"
-       },
-       {
-          "id":5,
-          "name":"What's New",
-          "image":"star.circle.fill",
-          "details":"Display any detailed information for iStaff App"
-       },
-    ]
- }
+   "help":[
+      {
+         "id":1,
+         "name":"Select",
+         "image":"ellipsis.circle",
+         "details":"Allow selecting multiple contact for creating email"
+      },
+      {
+         "id":2,
+         "name":"Sorting",
+         "image":"arrow.up.arrow.down.circle",
+         "details":"List the contacts in alphabetic order"
+      },
+      {
+         "id":3,
+         "name":"Filters",
+         "image":"line.3.horizontal.decrease.circle",
+         "details":"Filters fro division, section and/or team"
+      },
+      {
+         "id":4,
+         "name":"Configurations",
+         "image":"gear",
+         "details":"Customize configurations on toolbar, tab, displaying and searching"
+      },
+      {
+         "id":5,
+         "name":"What's New",
+         "image":"star.circle.fill",
+         "details":"Display any detailed information for iStaff App"
+      },
+      {
+         "id":6,
+         "name":"All Staff",
+         "image":"house.circle.fill",
+         "details":"List contact information of all staff"
+      },
+      {
+         "id":7,
+         "name":"All Staff",
+         "image":"",
+         "details":"Display options could be customized via Configurations"
+      },
+      {
+         "id":8,
+         "name":"Custom Division",
+         "image":"person.circle.fill",
+         "details":"List contact information of any specified division which could be customized via Configurations > Tab Options"
+      },
+      {
+         "id":9,
+         "name":"Useful Contact",
+         "image":"phone.circle.fill",
+         "details":"List the common useful contact information"
+      }
+   ]
+}
