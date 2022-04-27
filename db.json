@@ -3,7 +3,7 @@
       {
          "id":1,
          "name":"Select",
-         "image":"ellipsis.cicle",
+         "image":"ellipsis.circle"
          "details":"Allow selecting multiple contact for creating email"
       },
       {
