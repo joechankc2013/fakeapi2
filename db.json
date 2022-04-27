@@ -30,29 +30,5 @@
           "image":"star.circle.fill",
           "details":"Display any detailed information for iStaff App"
        },
-       {
-          "id":6,
-          "name":"All Staff",
-          "image":"house.circle.fill",
-          "details":"List contact information of all staff"
-       },
-       {
-          "id":7,
-          "name":"All Staff",
-          "image":"",
-          "details":"Display options could be customized via Configurations"
-       },
-       {
-          "id":8,
-          "name":"Custom Division",
-          "image":"person.circle.fill",
-          "details":"List contact information of any specified division which could be customized via Configurations > Tab Options"
-       },
-       {
-          "id":9,
-          "name":"Useful Contact",
-          "image":"phone.circle.fill",
-          "details":"List the common useful contact information"
-       }
     ]
  }
