@@ -29,7 +29,8 @@
          "name":"Configurations",
          "image":"gear",
          "details":[
-            "Customize configurations on toolbar, tab, displaying and searching"
+            "Configurations on toolbar, tab, displaying and searching",
+            "Users could customize their favorite options depending on their needs"
          ]
       },
       {
