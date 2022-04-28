@@ -80,20 +80,11 @@
          "image":"wrench.fill",
          "details":[
             "Configurations for Toolbar",
-            "Allow customizations of toolbar"
-         ]
-      },
-      {
-         "id":12,
-         "name":"Toolbar",
-         "image":"wrench.fill",
-         "details":[
-            "Configurations for Toolbar",
             "Allow customizations of toolbar features, including 'About', 'Select', 'Sorting', 'Filters' and 'Configurations'"
          ]
       },
       {
-         "id":13,
+         "id":12,
          "name":"Tab",
          "image":"folder.circle.fill",
          "details":[
@@ -102,7 +93,7 @@
          ]
       },      
       {
-         "id":14,
+         "id":13,
          "name":"Display",
          "image":"list.bullet.circle.fill",
          "details":[
@@ -111,7 +102,7 @@
          ]
       },      
       {
-         "id":15,
+         "id":14,
          "name":"Search",
          "image":"magnifyingglass.circle.fill",
          "details":[
