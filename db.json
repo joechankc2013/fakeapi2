@@ -65,6 +65,59 @@
          "details":[
             "List the common useful contact information"
          ]
-      }
+      },
+      {
+         "id":10,
+         "name":"Help",
+         "image":"questionmark.circle.fill",
+         "details":[
+            "This help"
+         ]
+      },
+      {
+         "id":11,
+         "name":"Toolbar",
+         "image":"wrench.fill",
+         "details":[
+            "Configurations for Toolbar",
+            "Allow customizations of toolbar"
+         ]
+      },
+      {
+         "id":12,
+         "name":"Toolbar",
+         "image":"wrench.fill",
+         "details":[
+            "Configurations for Toolbar",
+            "Allow customizations of toolbar features, including 'About', 'Select', 'Sorting', 'Filters' and 'Configurations'"
+         ]
+      },
+      {
+         "id":13,
+         "name":"Tab",
+         "image":"folder.circle.fill",
+         "details":[
+            "Configurations for Tab",
+            "Allow customizations of tab features, including 'What's New', 'All Staff', 'Custom Division' and 'Useful contact'"
+         ]
+      },      
+      {
+         "id":14,
+         "name":"Display",
+         "image":"list.bullet.circle.fill",
+         "details":[
+            "Configurations for Display",
+            "Allow customizations of display features, including 'Avator', 'Name', 'Email', 'Division', 'Telephone', 'Mobile' and 'Post'"
+         ]
+      },      
+      {
+         "id":15,
+         "name":"Search",
+         "image":"magnifyingglass.circle.fill",
+         "details":[
+            "Configurations for Search",
+            "Allow customizations of search features, including 'Full Name', 'Telephone', 'Mobile', 'Email', 'Post', 'Email', 'Division', 'Section' and 'Post'"
+         ]
+      }      
    ]
 }
