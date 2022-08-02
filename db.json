@@ -77,7 +77,7 @@
       {
          "id":11,
          "name":"Toolbar",
-         "image":"wrench.fill",
+         "image":"hammer.circle.fill",
          "details":[
             "Configurations for Toolbar",
             "Allow customizations of toolbar features, including 'About', 'Select', 'Sorting', 'Filters' and 'Configurations'"
