@@ -13,7 +13,7 @@
          "name":"Sorting",
          "image":"arrow.up.arrow.down.circle",
          "details":[
-            "List the contacts in alphabetic order"
+            "List the contacts (Last Name, First Name) in alphabetic order"
          ]
       },
       {
